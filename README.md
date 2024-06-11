@@ -1,4 +1,3 @@
-
 # Signature Forgery Detection
 
 This project aims to detect forged signatures using image processing and machine learning techniques. The code preprocesses images, extracts features, and uses a neural network to classify signatures as genuine or forged.
@@ -94,4 +93,4 @@ The model's performance is evaluated based on its accuracy on both training and 
 
 For more details, refer to the research paper:
 
-- [Signature Forgery Detection: A Comprehensive Approach](path/to/paper)
+- [Signature Forgery Detection: A Comprehensive Approach](Research%20Paper.pdf)
